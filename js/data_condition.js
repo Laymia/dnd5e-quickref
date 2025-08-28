@@ -200,7 +200,7 @@ data_condition = [
         "<b>Shared Withdrawal:</b> When the link prevents a hunger spiral, you gain 1 exhaustion and take 1d6 psychic damage per exhaustion level you have.",
         "<b>Dream Spy:</b> After the soulbound partner uses Dream Thief's Siphon, you can enter the victim's dreams for 1 minute. On a failure, you hear their screams for 1d4 nights (DC 14 CON save each night or gain exhaustion).",
         "<b>Shared Wounds:</b> If you fall, your soulbound partner must save or gain exhaustion. You take 1/4 damage from his Soul Drain. Your death triggers a catastrophic hunger spiral in them.",
-        "<b>Soul-Deep Strike (1/Short Rest):</b> Channel energy to add 2d8 radiant to the prince's next attack, redirect a missed attack, or empower your own strike."
+        "<b>Soul-Deep Strike (1/Short Rest):</b> Channel energy to add 2d8 radiant to your soulbound partner's next attack, redirect a missed attack, or empower your own strike."
 ]
 },
     {
