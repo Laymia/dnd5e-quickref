@@ -24,6 +24,22 @@ data_condition = [
         ]
     },
     {
+        title: "Corrupted**",
+        optional: "Homebrew rule",
+        icon: "andromeda-chain",
+        subtitle: "You are tainted by the Void",
+        reference: "Void Exposure Mechanics",
+        description: "Your body and soul are corrupted by void-matter.",
+        bullets: [
+           "You gain Void Points from exposure to void-matter, traps, or certain abilities.",
+"<b>1+ VP:</b> You hear whispers and gain Short-term Madness.",
+"<b>3+ VP:</b> Black veins appear. Advantage on CHA checks, Disadvantage on CHA saves.",
+"<b>5+ VP:</b> A chain brand glows. Vulnerable to radiant, resistant to necrotic. Cultists sense you.",
+"<b>7+ VP:</b> Your max HP is reduced by 25%.",
+"<b>10 VP:</b> You become a Void-Spawn under the DM's control."
+]
+},
+    {
         title: "Deafened",
         optional: "Standard rule",
         icon: "elf-ear",
