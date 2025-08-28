@@ -194,12 +194,12 @@ data_condition = [
         description: "A permanent, double-edged psychic connection.",
         reference: "Soulbound Mechanics",
         bullets: [
-        "<b>Psychic Link (30ft):</b> Telepathy, sense the prince's emotions and position. Advantage on Insight checks about him.",
-        "<b>Whispers & Weakness:</b> You hear the prince's hunger whispers. You have Disadvantage on saves against his charm and vulnerability to void mind attacks.",
-        "<b>Feedback Pain:</b> When the prince uses charm or soul drain, make a DC 12 CON save or take 1d4 psychic damage.",
+        "<b>Psychic Link (30ft):</b> Telepathy, sense the emotions and position of your soulbound partner. Advantage on Insight checks about them.",
+        "<b>Whispers & Weakness:</b> You hear the hunger whispers of your soulbound partner. You have Disadvantage on saves against their charm and vulnerability to void mind attacks.",
+        "<b>Feedback Pain:</b> When your soulbound partner uses charm or soul drain, make a DC 12 CON save or take 1d4 psychic damage.",
         "<b>Shared Withdrawal:</b> When the link prevents a hunger spiral, you gain 1 exhaustion and take 1d6 psychic damage per exhaustion level you have.",
-        "<b>Dream Spy:</b> After the prince uses Dream Thief's Siphon, you can enter the victim's dreams for 1 minute. On a failure, you hear their screams for 1d4 nights (DC 14 CON save each night or gain exhaustion).",
-        "<b>Shared Wounds:</b> If you fall, the prince must save or gain exhaustion. You take 1/4 damage from his Soul Drain. Your death triggers a catastrophic hunger spiral in him.",
+        "<b>Dream Spy:</b> After the soulbound partner uses Dream Thief's Siphon, you can enter the victim's dreams for 1 minute. On a failure, you hear their screams for 1d4 nights (DC 14 CON save each night or gain exhaustion).",
+        "<b>Shared Wounds:</b> If you fall, your soulbound partner must save or gain exhaustion. You take 1/4 damage from his Soul Drain. Your death triggers a catastrophic hunger spiral in them.",
         "<b>Soul-Deep Strike (1/Short Rest):</b> Channel energy to add 2d8 radiant to the prince's next attack, redirect a missed attack, or empower your own strike."
 ]
 },
