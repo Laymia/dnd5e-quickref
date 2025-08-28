@@ -32,11 +32,11 @@ data_condition = [
         description: "Your body and soul are corrupted by void-matter.",
         bullets: [
            "You gain Void Points from exposure to void-matter, traps, or certain abilities.",
-"<b>1+ VP:</b> You hear whispers and gain Short-term Madness.",
-"<b>3+ VP:</b> Black veins appear. Advantage on CHA checks, Disadvantage on CHA saves.",
-"<b>5+ VP:</b> A chain brand glows. Vulnerable to radiant, resistant to necrotic. Cultists sense you.",
-"<b>7+ VP:</b> Your max HP is reduced by 25%.",
-"<b>10 VP:</b> You become a Void-Spawn under the DM's control."
+            "<b>1+ VP:</b> You hear whispers and gain Short-term Madness.",
+            "<b>3+ VP:</b> Black veins appear. Advantage on CHA checks, Disadvantage on CHA saves.",
+            "<b>5+ VP:</b> A chain brand glows. Vulnerable to radiant, resistant to necrotic. Cultists sense you.",
+            "<b>7+ VP:</b> Your max HP is reduced by 25%.",
+            "<b>10 VP:</b> You become a Void-Spawn under the DM's control."
 ]
 },
     {
@@ -186,6 +186,23 @@ data_condition = [
             "You have disadvantage on Dexterity saving throws."
         ]
     },
+    {
+        title: "Soulbound",
+        optional: "Homebrew rule",
+        icon: "chained-heart",
+        subtitle: "Bound by a shared soul fragment",
+        description: "A permanent, double-edged psychic connection.",
+        reference: "Soulbound Mechanics",
+        bullets: [
+        "<b>Psychic Link (30ft):</b> Telepathy, sense the prince's emotions and position. Advantage on Insight checks about him.",
+        "<b>Whispers & Weakness:</b> You hear the prince's hunger whispers. You have Disadvantage on saves against his charm and vulnerability to void mind attacks.",
+        "<b>Feedback Pain:</b> When the prince uses charm or soul drain, make a DC 12 CON save or take 1d4 psychic damage.",
+        "<b>Shared Withdrawal:</b> When the link prevents a hunger spiral, you gain 1 exhaustion and take 1d6 psychic damage per exhaustion level you have.",
+        "<b>Dream Spy:</b> After the prince uses Dream Thief's Siphon, you can enter the victim's dreams for 1 minute. On a failure, you hear their screams for 1d4 nights (DC 14 CON save each night or gain exhaustion).",
+        "<b>Shared Wounds:</b> If you fall, the prince must save or gain exhaustion. You take 1/4 damage from his Soul Drain. Your death triggers a catastrophic hunger spiral in him.",
+        "<b>Soul-Deep Strike (1/Short Rest):</b> Channel energy to add 2d8 radiant to the prince's next attack, redirect a missed attack, or empower your own strike."
+]
+},
     {
         title: "Stunned",
         optional: "Standard rule",
