@@ -211,7 +211,7 @@ data_condition = [
         description: "The permanent soul-wound from a shattered psychic tether to a cambion.",
         reference: "Soulbound Mechanics",
         bullets: [
-        "<b>Fiend's Final Curse:</b> On the prince's death, make a DC 15 CHA save. On a failure, you are permanently marked as a mortal enemy of fiends, granting Disadvantage on saves against their charm and fear effects.",
+        "<b>Fiend's Final Curse:</b> On the soulbound partner's death, make a DC 15 CHA save. On a failure, you are permanently marked as a mortal enemy of fiends, granting Disadvantage on saves against their charm and fear effects.",
         "<b>Soul's Scar:</b> Your max HP is permanently reduced by the amount of necrotic damage you took when the bond was first forged. This can only be restored by a Wish spell or a profound quest.",
         "<b>Phantom Limb:</b> For 1d4 weeks, you have Disadvantage on Wisdom (Perception) checks as your mind reels from the sudden psychic silence.",
         "<b>Echo of the Feast (Optional):</b> Once per long rest, upon reducing a humanoid to 0 HP, you may regain hit points equal to half your Soul's Scar reduction, a grim reminder of the bond's power."
