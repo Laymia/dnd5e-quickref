@@ -187,7 +187,7 @@ data_condition = [
         ]
     },
     {
-        title: "Soulbound",
+        title: "Soulbound**",
         optional: "Homebrew rule",
         icon: "chained-heart",
         subtitle: "Bound by a shared soul fragment",
