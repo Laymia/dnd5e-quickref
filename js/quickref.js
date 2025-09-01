@@ -194,4 +194,8 @@ document.addEventListener("DOMContentLoaded", function () {
     // Ensure dark mode is off by default
     darkModeCheckbox.checked = true;
     handleDarkModeToggle();
+
+    // Ensure dark mode is off by default
+    homebrewCheckbox.checked = true;
+    handleRulesToggle();
 });
